@@ -1,5 +1,5 @@
 
-  # wEB
+  # Deeploma
 
   This is a code bundle for wEB. The original project is available at https://www.figma.com/design/FywI4hh6roBYWcNbLNKYnK/wEB.
 
